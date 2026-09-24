@@ -185,7 +185,6 @@ Python | Flask | REST APIs | SQL | Git | GitHub
 
 - GitHub: [Sangeetha-k-1112](https://github.com/Sangeetha-k-1112)
 - LinkedIn: www.linkedin.com/in/sangeetha-k-43b555246
-- Email: sangeethak1112@gmail.com
 
 ---
 
