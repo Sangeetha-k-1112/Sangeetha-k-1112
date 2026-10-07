@@ -56,9 +56,10 @@ I am interested in building reliable backend applications, working with APIs and
 
 ## 💼 Experience
 
-### GenAI / AI Website Chatbot Project — Innovative Infotech
+### AI Automation Developer (Trainee)  — Innovative Infotech
 
-Worked on an **AI Website Chatbot project** involving backend API development, database design, user authentication, and application workflow.
+**Project:** AI Website Chatbot project** 
+Worked on AI Website Chatbot project involving backend API development, database design, user authentication, and application workflow.
 
 Key areas of contribution:
 
